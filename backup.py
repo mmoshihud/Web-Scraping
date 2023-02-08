@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-
 import requests
 
 url = "https://location.westernunion.com/bd?country=BD&q=Bangladesh"
